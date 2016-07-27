@@ -47,14 +47,14 @@ public class Strings {
 	public static void replaceString() {
 		System.out.println("\n\nreplaceString(): ");
 		String a = "Bacon";
-		String b = "Monster";
+		//String b = "Monster";
 		System.out.println("\t" + a.replace('B', 'F'));
 	}
 
 	public static void upperCase() {
 		System.out.println("\nupperCase():");
 		
-		String a = "Bacon";
+		//String a = "Bacon";
 		String b = "Monster";
 		
 		System.out.println("\t" + b.toUpperCase());
